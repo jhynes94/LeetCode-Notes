@@ -5,12 +5,22 @@ Other great sites to challenge yourself:
 * https://www.codingame.com/
 * https://www.codewars.com/
 
-
-Chapters:
-
-
-
 Video notes can be found [here](https://docs.google.com/spreadsheets/d/1UDMgFw9MvjOi-yweHHejYZt6BvQaQWcDc-R-oKOJ2xA/edit#gid=0) for most popular problems. Awesome video contant can be found from [NeetCode](https://www.youtube.com/channel/UC_mYaQAE6-71rjSN6CeCA-g) as well.
+
+
+## Chapters:
+* Trees
+* Graphs
+
+
+## Trees
+
+https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/
+
+https://leetcode.com/discuss/general-discussion/969327/Graph-Algorithms-One-Place-or-Dijkstra-or-Bellman-Ford-or-Floyd-Warshall-or-Prims-or-Kruskals-or-DSU
+
+https://leetcode.com/discuss/general-discussion/937307/iterative-recursive-dfs-bfs-tree-traversal-in-pre-post-levelorder-views
+
 
 
 For/in for Objects:
